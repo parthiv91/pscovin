@@ -1,5 +1,5 @@
 # pscovin
-Code to find free vaccine slots in the given Pincode based on cowin APIs. 
+Python code to find a free vaccine slots @ the given Pincodes based on cowin APIs. 
 
 **Assumption:** 
 python 3* installed, internet connection
