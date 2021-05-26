@@ -9,20 +9,13 @@ beutifulsoup4, json, python-telegram-bot, telegram
 
 ## **Step 1:**  Set up Telegram APIs and BOT
 
-Install the required packages in python (pip install ...)
-
-Get yourself a telegram account. 
-
-Get an telegram API_Token
-
-Set up the first bot in telegram. (Above bot will actually post the vaccine update in the group)
-
-Create a group in telegram. (Eg Vaccine @Pincode). Get this group id (Negative number)
-
-Get your telegram id. (Positive number)
-
-When done: Input your above data and **run** the testTelegram.py. If the test message is send you are ready.
-
+- Install the required packages in python (pip install ...)
+- Get yourself a telegram account. 
+- Get a telegram API_Token
+- Set up the first bot in telegram. (This bot will actually post the vaccine update in the group)
+- Create a group in telegram. (Eg Vaccine @Pincode). Get this group id (Negative number)
+- Get your telegram id. (Positive number)
+- When done: Input your above data and **run** the testTelegram.py. If the test message is send you are ready.
 > For all the above steps you have to google around. Some how not straight forward.
 
 ## **Step 2**:  Run the pscovin code
