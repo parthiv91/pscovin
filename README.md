@@ -31,7 +31,9 @@ Now update all User Inputs in the pscovin.py.
 
 my_token, my_id, chat_id, pin_lst, dose (read the comments in the code for details.
 
-## **Step 3:**  Run the code...   Feel free to drop me a question! Though i assure google will provide a better answer!
+## **Step 3:**  Run the code...   
+
+Feel free to drop me a question! Though i assure google will provide a better answer!
 
 I had lot of fun but the documentation was the most boring...  
 
