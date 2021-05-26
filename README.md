@@ -23,7 +23,7 @@ Get your telegram id. (Positive number)
 
 When done: Input your above data and **run** the testTelegram.py. If the test message is send you are ready.
 
-For all the above steps you have to google around. Some how not straight forward.
+> For all the above steps you have to google around. Some how not straight forward.
 
 ## **Step 2**:  Run the pscovin code
 
