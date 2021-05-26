@@ -1,13 +1,13 @@
 # pscovin
 Python code to find a free vaccine slots @ the given Pincodes based on cowin APIs. 
 
-**Assumption:** 
+## **Assumption:** 
 python 3* installed, internet connection
 
-**Required packages**
+## **Required packages**
 beutifulsoup4, json, python-telegram-bot, telegram 
 
-**Step 1:**  Set up Telegram APIs and BOT
+## **Step 1:**  Set up Telegram APIs and BOT
 
 Install the required packages in python (pip install ...)
 
@@ -25,13 +25,13 @@ When done: Input your above data and **run** the testTelegram.py. If the test me
 
 For all the above steps you have to google around. Some how not straight forward.
 
-**Step 2**:  Run the pscovin code
+## **Step 2**:  Run the pscovin code
 
 Now update all User Inputs in the pscovin.py.
 
 my_token, my_id, chat_id, pin_lst, dose (read the comments in the code for details.
 
-**Step 3:**  Run the code...   Feel free to drop me a question! Though i assure google will provide a better answer!
+## **Step 3:**  Run the code...   Feel free to drop me a question! Though i assure google will provide a better answer!
 
 I had lot of fun but the documentation was the most boring...  
 
