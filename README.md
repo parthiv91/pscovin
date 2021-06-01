@@ -1,6 +1,16 @@
 # pscovin
 Python code to find a free vaccine slots @ the given Pincodes based on cowin APIs. 
 
+## Update :
+
+Updated the code with following changes:
+
+- 1 message per day per center. (Reduce spaming)
+- Cowin link in the message to directly go to register
+- Log updates for data analytics
+- Possibility to have night time sleep
+
+
 ## **Assumption:** 
 python 3* installed, internet connection
 
@@ -30,11 +40,3 @@ Feel free to drop me a question! Though i assure google will provide a better an
 
 I had lot of fun but the documentation was the most boring...  
 
-## Update:
-
-Updated the code with following changes:
-
-- 1 message per day per center. (Reduce spaming)
-- Cowin link in the message to directly go to register
-- Log updates for data analytics
-- Possibility to have night time sleep
