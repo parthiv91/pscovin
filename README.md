@@ -9,13 +9,14 @@ Updated the code with following changes:
 - Cowin link in the message to directly go to register
 - Log updates for data analytics
 - Possibility to have night time sleep
+- Needs Pandas
 
 
 ## **Assumption:** 
 python 3* installed, internet connection
 
 ## **Required packages**
-beutifulsoup4, json, python-telegram-bot, telegram 
+beutifulsoup4, json, python-telegram-bot, telegram, pandas
 
 ## **Step 1:**  Set up Telegram APIs and BOT
 
